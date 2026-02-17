@@ -1,25 +1,22 @@
-# 🚀 Flash Sales Landing Page
+# 🍔 Tasty Bites Web App
 
-A one-page promotional **landing page** built using HTML, CSS, and JavaScript.  
-Designed to showcase a flash sale offer with a clean layout, engaging UI, and responsive design.
-
-This page can be used as a starting point for product promotions, event highlights, or limited-time offers.
+A simple and interactive web application that showcases food menu items with user-driven filtering and display.  
+Built using HTML, CSS, and JavaScript — perfect for practicing dynamic UI interactions and DOM manipulation.
 
 ---
 
 ## 🔗 Live Demo
 
-👉 https://flashsales.vercel.app
+👉 https://tasty-bites-web-app.vercel.app/  
 
 ---
 
 ## 🎯 Features
 
-- 📌 Eye-catching hero section for promotional campaigns  
-- 📦 Sale highlights and offer details  
-- 📱 Works on desktop and mobile screens (responsive)  
-- 🎨 Styled with CSS for modern visuals  
-- ✨ Minimal JavaScript enhancements
+- 🍽️ Displays a list of food items with images
+- 🔍 Dynamic filtering by category
+- 📱 Responsive layout for mobile and desktop
+- 👨‍💻 Uses JavaScript to update UI without page reload
 
 ---
 
@@ -27,9 +24,11 @@ This page can be used as a starting point for product promotions, event highligh
 
 This project uses:
 
-- **HTML** – Structure of the landing page  
-- **CSS** – Styles  
-- **JavaScript** – Interactive behavior 
+- **HTML** – Page structure  
+- **CSS** – Styling and layout  
+- **JavaScript** – Dynamic UI and filtering logic
 
-## 📁 Folder Structure
+---
+
+## 📁 Project Structure
 
